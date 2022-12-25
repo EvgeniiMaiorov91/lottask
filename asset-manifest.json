@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/lottask/static/css/main.a3a0c958.css",
+    "main.js": "/lottask/static/js/main.08a52a28.js",
+    "index.html": "/lottask/index.html",
+    "main.a3a0c958.css.map": "/lottask/static/css/main.a3a0c958.css.map",
+    "main.08a52a28.js.map": "/lottask/static/js/main.08a52a28.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a3a0c958.css",
+    "static/js/main.08a52a28.js"
+  ]
+}
