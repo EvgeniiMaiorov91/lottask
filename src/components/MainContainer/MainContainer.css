@@ -1,0 +1,27 @@
+.titles {
+  width: 400px;
+}
+.titles p:nth-child(odd) {
+  background-color: rgb(240, 239, 239);
+}
+.titles p:nth-child(even) {
+  background-color: white;
+}
+.mainContainer {
+  display: flex;
+}
+.mainContainer h3 {
+  padding: 20px 0;
+  color: rgb(81, 151, 231);
+}
+.mainContainer p {
+  padding:5px 0 5px 3px ;
+}
+#price {
+  height: 88px;
+  display: flex;
+  align-items: center;
+}
+#bottomLine {
+  border-bottom: 1px solid rgb(138, 137, 137);
+}

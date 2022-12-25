@@ -1,0 +1,16 @@
+.app {
+  width: 1150px;
+  margin: 0 auto;
+  margin-top: 100px;
+}
+.app h1 {
+  font-size: 24px;
+  color: red;
+  margin: 20px 0;
+}
+.app h2 {
+  color: rgb(201, 91, 91);
+  background-color: rgb(236, 194, 194);
+  margin: 8px 0;
+  width: 730px;
+}

@@ -1,0 +1,42 @@
+.participants {
+  text-align: center;
+  display: flex;
+}
+.participants p {
+  padding: 5px 0;
+  display: flex;
+  flex-direction: column;
+}
+.participants p span {
+  margin: 5px 0;
+}
+.participant {
+  width: 150px;
+}
+#measures {
+  height: 42px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.participant p:nth-child(odd) {
+  background-color: rgb(240, 239, 239);
+}
+.participant p:nth-child(even) {
+  background-color: white;
+}
+.participant div {
+  height: 56px;
+}
+.participant div h6 {
+  width: 100%;
+  height: 100%;
+  color: rgb(247, 59, 59);
+  font-weight: bold;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-color: rgb(241, 190, 190);
+  border-radius: 5px;
+}
